@@ -1,0 +1,17 @@
+.lovely {
+    font-style: italic;
+    font-weight: bold;
+}
+
+body {
+    background-color: beige;
+}
+
+h1 {
+    color: black;
+    margin-left: 120px;
+}
+
+p {
+    font-size: 180pt;
+}
